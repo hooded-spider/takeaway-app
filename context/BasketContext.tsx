@@ -1,3 +1,5 @@
+"use client";
+
 import { createContext, useContext, useState, ReactNode } from 'react';
 import { BasketItem } from "@/lib/types";
 
